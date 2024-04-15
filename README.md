@@ -45,4 +45,4 @@ Por favor, entre em contato comigo através do meu e-mail brunomariano.sv@gmail.
 
 Atenciosamente,
 
-[Seu Nome]
+Bruno Developer Front-end
