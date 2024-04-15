@@ -9,6 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/7/#inbox)
 
 ![codebruno GitHub stats](https://github-readme-stats.vercel.app/api?username=codebruno&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebruno)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 No meu dia a dia, trabalho com essas tecnologias:
 
